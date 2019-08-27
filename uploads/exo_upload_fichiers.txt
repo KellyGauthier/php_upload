@@ -1,0 +1,9 @@
+﻿- Réaliser un site avec 2 pages :
+
+- Un formulaire contenant plusieurs éléments input de type file (le nombre de votre choix). 
+Vous vous appuierez sur la documentation PHP qui présente un exemple d'upload de fichiers multiples
+
+- Après avoir utilisé ce formulaire plusieurs fois pour uploader plusieurs fichiers dans un répertoire, 
+vous créerez une seconde page présentant l'ensemble des fichiers présents dans ce répertoire d'upload
+
+- Vous vous appuierez également sur la documentation PHP pour trouver la manière de récupérer les éléments d'un dossier

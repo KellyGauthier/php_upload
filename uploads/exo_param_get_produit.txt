@@ -1,0 +1,9 @@
+- Inclure dans produit.php le fichier définissant le tableau de produits (et pas celui définissant les libellés)
+
+- Vérifier l'existence de la clé "id" dans le tableau superglobal $_GET
+
+- Si cette clé existe, chercher le produit correspondant dans le tableau (vous pouvez utiliser une boucle)
+
+- Si vous trouvez le produit, affichez ses informations
+
+- Si vous ne le trouvez pas, affichez un bref message d'erreur indiquant que ce produit n'existe pas
